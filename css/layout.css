@@ -1,0 +1,29 @@
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+
+.Header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    text-align: center;
+}
+
+.left{
+    top: 114px;
+    left: 5px;
+    width: 450px;
+    bottom: fixed;
+
+}
+
+.mainBody{
+    top: 114px;
+    left: 500px;
+    bottom: 39px;
+    padding-right: 5px;
+    bottom: fixed;
+}
